@@ -15,7 +15,7 @@
     <PackageLicenseUrl>https://github.com/cdorst/Addresses.States/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/Addresses.States</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/Addresses.States</RepositoryUrl>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
